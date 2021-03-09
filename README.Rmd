@@ -1,0 +1,6 @@
+---
+title: "Lab 2 Assignment"
+author: "___"
+date: "2021-03-02"
+output: github_document
+---
