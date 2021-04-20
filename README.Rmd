@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
 
 <img src="https://www2.mnstate.edu/uploadedImages/Content/Marketing/logos/MSUM_Signature_Vert_Color.jpg" alt="MSUM logo" width="200" style="float:right"/>
 
-\#COVID-19 DEATH AND HOSPITALIZATION RATES IN TEXAS
+# COVID-19 DEATH AND HOSPITALIZATION RATES IN TEXAS
 
 Presentation ID: 5033
 
@@ -20,7 +20,7 @@ Presented at the MSUM 23rd Online Student Academic Conference
 
 Submit a survey for this presentation: <https://mnstate.co1.qualtrics.com/jfe/form/SV_eFMAwF72JZIoeSq>
 
-## Abstract
+## ABSTRACT
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the newly discovered coronavirus. The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes. In the Us COVID-19 was declared a pandemic by the WHO in March 2020. What is the effect of rate of hospitalization due to COVID-19 in the spread of the virus? In this study we are going to evaluate this question using Texas as a case study. with the aid of exploratory data analysis, we are going to compare the hospitalization rates and then compare it to the number of deaths recorded. From the results of this data analysis, I should be able to conclude that that increased hospitalization either increases or decreases the spread of Covid in Texas or show no correlation at all.
 
@@ -115,7 +115,7 @@ geom_line(mapping = aes(x = date, y=hospitalizedCurrently),fill='blue')
 
 In figure 1 above, we have three histograms where we can visualize the frequency of the number of people hospitalized daily, the cumulative number of deaths and the daily increase in death toll. We can infer from our histogram that regardless of the trend in data for the hospitalized patients there was a slow decline in death rate. This can be properly visualized by comparing each bars on the histogram on (a) nd (b), the histogram distribution on graph (C) represents the daily death increase which reduces steadily across the graph.
 
-In figures 2 and 3, we use a time series and line graph show that regardless of an increase or decrease in the rate of hospitalization, there was no significant effect or impact on death rate, as the death rate increased numerically across March 2020 to March 2021. From our results, we reject our hypothesis as there was no correlation whatsoever between hospitalization and death rates in Texas.   
+In figures 2 and 3, we use a time series and line graph show that regardless of an increase or decrease in the rate of hospitalization, there was no significant effect or impact on death rate, as the death rate increased numerically across March 2020 to March 2021. From our results, we reject our hypothesis as there was no correlation whatsoever between hospitalization and death rates in Texas.
 
 The rate of hospitalization of COVID-19 patients in Texas did not have any significant impact on the death rate. THis could be due to lots of factors: there is no known cure for COVID-19, there are also different qualities of healthcare across the state of Texas and so there would be no consistent impact or result of this healthcare on the death toll. In addition, one of the variuables in our data- hospitalization rate is too broad for us to get a clear correlation. This means that in previous studies it would mnore advantageous for us to look at different hospitals specifically to show any existing correlation to mortality rate. Furthermore, we are not aware of the number of non-hospitalized patients that actually died from COVID-19 infection. The wider implication of this results in this study, is that hospitalization of COVID-19 patients have not really played a significant role in the mortality rates in Texas.
 

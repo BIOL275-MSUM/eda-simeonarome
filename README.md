@@ -1,7 +1,7 @@
 
 <img src="https://www2.mnstate.edu/uploadedImages/Content/Marketing/logos/MSUM_Signature_Vert_Color.jpg" alt="MSUM logo" width="200" style="float:right"/>
 
-\#COVID-19 DEATH AND HOSPITALIZATION RATES IN TEXAS
+# COVID-19 DEATH AND HOSPITALIZATION RATES IN TEXAS
 
 Presentation ID: 5033
 
@@ -15,7 +15,7 @@ Presented at the MSUM 23rd Online Student Academic Conference
 Submit a survey for this presentation:
 <https://mnstate.co1.qualtrics.com/jfe/form/SV_eFMAwF72JZIoeSq>
 
-## Abstract
+## ABSTRACT
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the
 newly discovered coronavirus. The COVID-19 virus spreads primarily
